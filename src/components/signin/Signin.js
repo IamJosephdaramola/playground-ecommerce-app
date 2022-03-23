@@ -1,7 +1,7 @@
 import { useState } from "react";
 
-import FormInput from "../form-input/FormInput";
 import Button, { BUTTON_TYPE_CLASSES } from "../button/Button";
+import FormInput from "../form-input/FormInput";
 
 import {
   signInWithGooglePopup,

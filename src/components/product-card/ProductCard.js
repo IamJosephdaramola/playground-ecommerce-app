@@ -1,5 +1,6 @@
 import { useContext } from "react";
 import { CartContext } from "../../contexts/cart";
+
 import Button, { BUTTON_TYPE_CLASSES } from "../button/Button";
 
 import "./product-card.styles.scss";
